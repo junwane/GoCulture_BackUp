@@ -1,0 +1,14 @@
+상단바(로그인전)	fixed_up_be.jsp
+상단바(로그인후)	fixed_up_af.jsp
+로그인페이지 	page_login.jsp
+회원가입페이지 	page_reg.jsp
+비회원주문페이지 	page_order.jsp
+회원주문페이지	page_myorder.jsp
+메인페이지           	page_main.jsp
+도움                    page_faq.jsp
+알람		page_alarmn.jsp
+포인트		page_point.jsp
+기프트카드	page_giftcard.jsp
+행사등록		page_mkevent.jsp
+공지사항		page_notice.jsp
+장바구니		page_cart.jsp
