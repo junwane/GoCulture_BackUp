@@ -1,0 +1,58 @@
+view page naming
+
+상단바(로그인 전/후)
+headerBe / headerAf
+
+메인 페이지
+main
+
+검색 페이지
+search
+
+카테고리 내부 페이지
+cateInner
+
+행사 상세 페이지(후기/문의)
+eventDetail
+
+공지사항 리스트 페이지
+noticeBoard
+
+완료/예정/찜 페이지
+page_gone.jsp / page_reservation.jsp / page_heart.jsp => myEventList
+
+포인트 페이지
+point
+
+기프트 페이지(받은카드/보낸카드/사용내역)
+giftCard
+
+기프트 카드 보내기 페이지
+giftCardSend
+
+기프트 카드 상세 팝업
+giftCardDetail
+
+행사 등록 페이지
+eventRegister
+
+비회원 예매 확인 페이지
+nonMemTicketconfirm
+
+로그인 페이지
+login.jsp
+
+회원/비회원 예매 페이지
+memTicketing/nonMemTicketing
+
+회원가입 페이지
+singUp.jsp
+
+아이디 찾기/비밀번호 찾기 페이지
+findId / findPw
+
+공지사항(내부/수정) 페이지 
+noticeBoardInner / noticeBoardModi
+
+회원정보 페이지
+memberInfo
